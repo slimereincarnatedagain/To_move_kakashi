@@ -19,7 +19,7 @@ export function exportTicketPdf(ticket: Ticket): void {
   // Header
   doc.setFont('helvetica', 'bold');
   doc.setFontSize(18);
-  doc.text('GTT TOMove — Ticket', pageW / 2, y, { align: 'center' });
+  doc.text('GTT TO move — Ticket', pageW / 2, y, { align: 'center' });
   y += 10;
 
   doc.setDrawColor(28, 64, 140);

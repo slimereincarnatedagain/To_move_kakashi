@@ -1,7 +1,7 @@
 {
   "name": "tomove",
   "version": "1.0.0",
-  "description": "GTT TOMove transit app mockup",
+  "description": "GTT TO move transit app mockup",
   "type": "module",
   "scripts": {
     "dev": "vite",

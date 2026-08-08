@@ -17,7 +17,7 @@ export default function SplashScreen({ onDone }: Props) {
       <div style={styles.logoWrap}>
         <img
           src={assetUrl('images/Gtt-Splash-logo.svg')}
-          alt="GTT TOMove"
+          alt="GTT TO move"
           style={styles.logoImg}
         />
       </div>

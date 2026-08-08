@@ -1,7 +1,7 @@
 {
-  "name": "TOMove – GTT",
-  "short_name": "TOMove",
-  "description": "GTT TOMove transit tickets",
+  "name": "TO move – GTT",
+  "short_name": "TO move",
+  "description": "GTT TO move transit tickets",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
