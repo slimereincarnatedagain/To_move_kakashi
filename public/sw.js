@@ -1,5 +1,5 @@
 /* Minimal service worker so Chrome treats the site as installable. */
-const CACHE = 'tomove-v2';
+const CACHE = 'tomove-v3';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
