@@ -1,20 +1,15 @@
 {
-  "name": "TO move – GTT",
+  "id": "/To_move_kakashi/?app=v2",
+  "name": "TO move",
   "short_name": "TO move",
   "description": "GTT TO move transit tickets",
-  "start_url": "./",
+  "start_url": "./?app=v2",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#1a2e6e",
+  "background_color": "#000000",
   "theme_color": "#1a2e6e",
   "icons": [
-    {
-      "src": "images/Gtt-Splash-logo.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
